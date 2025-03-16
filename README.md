@@ -1,3 +1,4 @@
 # python-learning
-for learning python basic
-author by krishna Sharma
+this repository  is for learning python basic and make basic projects of python 
+
+
